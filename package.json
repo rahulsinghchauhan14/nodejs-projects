@@ -1,0 +1,19 @@
+{
+  "name": "node_js_error_handling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulsinghchauhan14/nodejs-projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulsinghchauhan14/nodejs-projects/issues"
+  },
+  "homepage": "https://github.com/rahulsinghchauhan14/nodejs-projects#readme"
+}
